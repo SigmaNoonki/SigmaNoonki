@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I'm Sofiya👋
+- 🌱 I recently completed my training in seciality Data Science (Yandex.Practicum) 
+- 🤔 I’m looking for new job
+- 🔭 I currently work for a medical equipment manufacturing company
+
 
 <!--
 **SigmaNoonki/SigmaNoonki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
